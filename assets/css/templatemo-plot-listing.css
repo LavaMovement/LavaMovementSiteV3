@@ -276,7 +276,7 @@ header
 }
 
 .header-area .main-nav a.logo {
-  background-image: url(../images/white-logo.png);
+  background-image: url(../images/lava logo.jpg);
   width: 166px;
   height: 58px;
   display: inline-block;
@@ -724,7 +724,7 @@ Banner Style
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  background-image: url(../images/banner-bg.jpg);
+  background-image: url(../images/lava still.jpg);
   padding: 290px 0px 180px 0px;
   position: relative;
   overflow: hidden;
@@ -2060,7 +2060,7 @@ responsive
     color: transparent;
   }
   .header-area .main-nav a.logo {
-    background-image: url(../images/black-logo.png);
+    background-image: url(../images/lava logo.jpg);
     float: left;
   }
   .header-area .logo {
