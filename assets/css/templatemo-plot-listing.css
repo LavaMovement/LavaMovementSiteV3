@@ -2061,7 +2061,7 @@ responsive
   }
   .header-area .main-nav a.logo {
     background-image: url(../images/black-logo.png);
-    float: left;
+    float: none;
   }
   .header-area .logo {
     margin-left: 0px;
